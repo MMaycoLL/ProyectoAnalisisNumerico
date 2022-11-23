@@ -5,7 +5,7 @@ Proyecto final de la materia analisis numerico, este se realizo en Matlab, los m
 - Metodo de jacobi
 - Metodo de Gauss Seidel
 
-Estos  metodos se realizaron en Guide, para la inicar esta aplicaion se ejecuta  a_Menu.m 
+Los anteriores  metodos se realizaron en Guide, para  inicar esta aplicaion se ejecuta  a_Menu.m 
 
 ![image](https://user-images.githubusercontent.com/32054958/203657921-6ea3cdd5-853f-4a24-8290-f706cc478bb8.png)
 
